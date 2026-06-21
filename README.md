@@ -1,19 +1,16 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/181799597?v=4" width="110" alt="Victor" style="border-radius:50%;" />
+# Victor ⋅ Nguyễn Văn Thắng
 
-# Victor
+**Fullstack Developer · Ho Chi Minh City**
 
-**Full-Stack Web Developer — Backend & Systems Architecture**
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Victor-201)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=white)](https://victor-201.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Victor-201) [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=6C63FF)](https://victor-201.github.io) [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:4.victor.201@gmail.com) [![Dev.to](https://img.shields.io/badge/Dev.to-0D1117?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/victor-201)
 
 </div>
 
 <br/>
 
-Full-stack developer specializing in backend service design, relational data modeling, and microservices architecture. Experience spans Node.js/NestJS backend systems and React/React Native frontends.
+Full-stack developer with experience building web and mobile applications across the stack — from frontend interfaces and UI/UX to backend APIs and database design. Works with React, React Native, Node.js, TypeScript, and relational databases. Comfortable taking ownership of features and collaborating in team environments.
 
 <br/>
 
@@ -59,21 +56,21 @@ Full-stack developer specializing in backend service design, relational data mod
 
 ## Projects
 
-**[EV Charging Station Management System](https://github.com/Victor-201/ev-charging-station-management-system)**
-Microservices platform for EV charging infrastructure. 6 services behind a Kong API gateway, async messaging via RabbitMQ, dual PostgreSQL/MySQL data layer, React Native mobile app + React web portal, Docker/Kubernetes deployment.
-`React Native · React · NestJS · Express · Prisma · PostgreSQL · MySQL · Kong · RabbitMQ · Docker · Kubernetes`
+**[EV Charging Orchestration Platform](https://github.com/Victor-201/ev-charging-orchestration-platform)** ![Prototype](https://img.shields.io/badge/-Prototype-ff69b4?style=flat-square)
+Real-time scheduling & orchestration engine for EV charging infrastructure. Includes mobile app, web portal, and kiosk simulation interface. Concurrency-safe booking, priority queueing, session lifecycle management, payment integration, and telemetry ingestion.
+`PostgreSQL · PL/pgSQL · Dart/Flutter · TypeScript · React`
 
-**[EV Charging Orchestration Platform](https://github.com/Victor-201/ev-charging-orchestration-platform)**
-Real-time scheduling and orchestration engine — concurrency-safe booking, priority queueing, session lifecycle, payment and telemetry handling. Most recently active project; deeper backend/data-layer focus than the original system above.
-`PostgreSQL · PL/pgSQL · Microservices`
+**[StudyHub Platform](https://github.com/Victor-201/studyhub-platform)** ![Prototype](https://img.shields.io/badge/-Prototype-ff69b4?style=flat-square)
+Social learning platform for sharing study materials, creating study groups, real-time chat, and community ratings.
+`JavaScript · Node.js · Express · EJS · PostgreSQL`
 
-**[StudyHub Platform](https://github.com/Victor-201/studyhub-platform)**
-Social learning platform — study material sharing, study groups, real-time chat, ratings. Structured backend/frontend/database/deployment layout.
-`JavaScript · Node.js`
+**[Queens Hill Climbing](https://github.com/Victor-201/queens-hill-climbing)** [![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat-square&logo=githubpages&logoColor=white)](https://victor-201.github.io/queens-hill-climbing/)
+Interactive visualization of the N-Queens problem solved using the Steepest-Ascent Hill Climbing algorithm. Educational tool demonstrating local search heuristic optimization.
+`JavaScript · HTML · CSS`
 
-**[Capstone Group 7 — Social Network](https://github.com/Victor-201/capstone-group7-social-network)**
-Full-stack social network built as a team project — auth, posts, comments, friends, groups.
-`Node.js · Express.js · MySQL · Sequelize · React · Redux`
+**[WebDev Toolkit](https://github.com/Victor-201/webdev-toolkit)**
+All-in-one Chrome extension for web developers — color picker, font detector, image downloader, page ruler, CSS inspector, and productivity tools.
+`JavaScript · HTML · CSS`
 
 <br/>
 
@@ -81,13 +78,10 @@ Full-stack social network built as a team project — auth, posts, comments, fri
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Victor-201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Victor-201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
 
 </div>
 
 <br/>
 
-## Contact
-
-[GitHub](https://github.com/Victor-201) · [Portfolio](https://victor-201.github.io)
