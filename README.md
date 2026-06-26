@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20VICTOR%20%E2%8B%85%20THANG&fontSize=38&fontAlignY=40&desc=Fullstack%20Developer%20%E2%80%A2%20React%20%26%20Mobile%20Builder%20%E2%80%A2%20Node.js%20Engineer&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20VICTOR%20THANG&fontSize=38&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20React%20and%20Mobile%20Builder%20%7C%20Node.js%20Engineer&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/Victor-201">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Fullstack+Developer+%2F+React+%26+Node.js+Engineer;%24+grep+-r+%22stack%22+%E2%86%92+React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;%24+ls+%2Finterests+%E2%86%92+Web+Apps+%7C+Mobile+Apps+%7C+Telemetry+%7C+UI%2FUX;%24+cat+featured-project.txt+%E2%86%92+EV+Charging+Orchestration+Platform" alt="typing" />
@@ -185,6 +185,7 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 </div>
 
+<!-- 
 ---
 
 ## `> trophy-case --display`
@@ -196,6 +197,7 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 </div>
 
 ---
+-->
 
 ## `> activity-graph --timeline`
 
@@ -211,17 +213,17 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victor-201&theme=2077" width="100%" alt="profile-details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-201&theme=2077" width="100%" alt="profile-details" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor-201&theme=2077" alt="repos-per-language" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victor-201&theme=2077" alt="most-commit-language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-201&theme=2077" alt="repos-per-language" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-201&theme=2077" alt="most-commit-language" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victor-201&theme=2077" alt="stats-card" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Victor-201&theme=2077&utcOffset=7" alt="productive-time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-201&theme=2077" alt="stats-card" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-201&theme=2077&utcOffset=7" alt="productive-time" />
 
 </div>
 
@@ -231,7 +233,7 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Victor-201/Victor-201/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/Victor-201/victor-201/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
