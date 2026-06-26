@@ -1,87 +1,286 @@
 <div align="center">
 
-# Victor ⋅ Nguyễn Văn Thắng
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20VICTOR%20%E2%8B%85%20THANG&fontSize=38&fontAlignY=40&desc=Fullstack%20Developer%20%E2%80%A2%20React%20%26%20Mobile%20Builder%20%E2%80%A2%20Node.js%20Engineer&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
 
-**Fullstack Developer · Ho Chi Minh City**
+<a href="https://github.com/Victor-201">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Fullstack+Developer+%2F+React+%26+Node.js+Engineer;%24+grep+-r+%22stack%22+%E2%86%92+React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;%24+ls+%2Finterests+%E2%86%92+Web+Apps+%7C+Mobile+Apps+%7C+Telemetry+%7C+UI%2FUX;%24+cat+featured-project.txt+%E2%86%92+EV+Charging+Orchestration+Platform" alt="typing" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Victor-201) [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=6C63FF)](https://victor-201.github.io) [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:4.victor.201@gmail.com) [![Dev.to](https://img.shields.io/badge/Dev.to-0D1117?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/victor-201)
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Ho%20Chi%20Minh%20City%2C%20VN-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />
+<img src="https://img.shields.io/badge/Role-Fullstack%20Developer-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=code&logoColor=CAFF3C" alt="role" />
+<img src="https://img.shields.io/badge/@victor--201-Dev.to-CAFF3C?style=flat-square&logo=devdotto&logoColor=000000&labelColor=060D08" alt="dev.to" />
+
+<br/><br/>
+
+<a href="https://victor-201.github.io"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
+<a href="mailto:4.victor.201@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>
+<a href="https://github.com/Victor-201"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Victor-201&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="views" />
+<img src="https://img.shields.io/github/followers/Victor-201?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/Victor-201?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" />
 
 </div>
 
-<br/>
+---
+
+## `> whoami`
 
 Full-stack developer with experience building web and mobile applications across the stack — from frontend interfaces and UI/UX to backend APIs and database design. Works with React, React Native, Node.js, TypeScript, and relational databases. Comfortable taking ownership of features and collaborating in team environments.
 
-<br/>
+```bash
+$ cat .profile
 
-## Stack
+ROLE        =  Fullstack Developer (Web & Mobile)
+EXP         =  Building end-to-end web & mobile applications
+STACK       =  React  |  React Native  |  Node.js  |  TypeScript
+DATABASES   =  PostgreSQL  |  MySQL  |  Prisma  |  Sequelize
+INFRA       =  Docker  |  Kubernetes  |  RabbitMQ  |  Kong  |  Firebase
+PROJECTS    =  EV Charging Orchestration  |  StudyHub  |  N-Queens
+LOCATION    =  Ho Chi Minh City, Vietnam
+OPEN_TO     =  Fullstack Engineering  +  Frontend/Backend Roles  +  Mobile Dev
+```
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20PLpgSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+---
 
-**Frontend**
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-0D1117?style=flat-square&logo=redux&logoColor=764ABC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E)
-
-**Database**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=flat-square&logo=sequelize&logoColor=52B0E7)
-
-**Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0D1117?style=flat-square&logo=rabbitmq&logoColor=FF6600)
-![Kong](https://img.shields.io/badge/Kong-0D1117?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-0D1117?style=flat-square&logo=eslint&logoColor=4B32C3)
-![npm](https://img.shields.io/badge/npm-0D1117?style=flat-square&logo=npm&logoColor=CB3837)
-
-<br/>
-
-## Projects
-
-**[EV Charging Orchestration Platform](https://github.com/Victor-201/ev-charging-orchestration-platform)** ![Prototype](https://img.shields.io/badge/-Prototype-ff69b4?style=flat-square)
-Real-time scheduling & orchestration engine for EV charging infrastructure. Includes mobile app, web portal, and kiosk simulation interface. Concurrency-safe booking, priority queueing, session lifecycle management, payment integration, and telemetry ingestion.
-`PostgreSQL · PL/pgSQL · Dart/Flutter · TypeScript · React`
-
-**[StudyHub Platform](https://github.com/Victor-201/studyhub-platform)** ![Prototype](https://img.shields.io/badge/-Prototype-ff69b4?style=flat-square)
-Social learning platform for sharing study materials, creating study groups, real-time chat, and community ratings.
-`JavaScript · Node.js · Express · EJS · PostgreSQL`
-
-**[Queens Hill Climbing](https://github.com/Victor-201/queens-hill-climbing)** [![Live Demo](https://img.shields.io/badge/-Live%20Demo-00C853?style=flat-square&logo=githubpages&logoColor=white)](https://victor-201.github.io/queens-hill-climbing/)
-Interactive visualization of the N-Queens problem solved using the Steepest-Ascent Hill Climbing algorithm. Educational tool demonstrating local search heuristic optimization.
-`JavaScript · HTML · CSS`
-
-**[WebDev Toolkit](https://github.com/Victor-201/webdev-toolkit)**
-All-in-one Chrome extension for web developers — color picker, font detector, image downloader, page ruler, CSS inspector, and productivity tools.
-`JavaScript · HTML · CSS`
-
-<br/>
-
-## GitHub Stats
+## `> ls /tech-stack`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Victor-201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+**[ Languages ]**
+
+<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="languages" />
+
+**[ Frontend &amp; Mobile ]**
+
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&theme=dark" alt="frontend" />
+
+**[ Backend &amp; Databases ]**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,prisma,sequelize&theme=dark" alt="backend" />
+
+**[ Cloud, DevOps &amp; Infrastructure ]**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,firebase,git,github,npm&theme=dark" alt="cloud" />
 
 </div>
 
 <br/>
+
+<div align="center">
+
+**[ Specialized Tools &amp; Libraries ]**
+
+<img src="https://img.shields.io/badge/PL%2FpgSQL-CAFF3C?style=flat-square&logo=postgresql&logoColor=000000&labelColor=060D08" alt="plpgsql" />
+<img src="https://img.shields.io/badge/React%20Native-CAFF3C?style=flat-square&logo=react&logoColor=000000&labelColor=060D08" alt="reactnative" />
+<img src="https://img.shields.io/badge/Kong%20Gateway-CAFF3C?style=flat-square&logo=kong&logoColor=000000&labelColor=060D08" alt="kong" />
+<img src="https://img.shields.io/badge/ESLint-CAFF3C?style=flat-square&logo=eslint&logoColor=000000&labelColor=060D08" alt="eslint" />
+
+</div>
+
+---
+
+## `> cat core-competencies.json`
+
+| Area | Proficiency | Focus &amp; Tools |
+| :-- | :-- | :-- |
+| **Frontend Development** | `██████████ Expert` | React, Redux Toolkit, Tailwind CSS, Vite, responsive UI |
+| **Mobile Development** | `█████████░ Senior` | React Native, cross-platform apps, mobile UI/UX |
+| **Backend Services** | `█████████░ Senior` | Node.js, Express.js, NestJS, RESTful API design |
+| **Database Systems** | `█████████░ Senior` | PostgreSQL (PL/pgSQL), MySQL, Prisma, Sequelize |
+| **System Orchestration** | `████████░░ Mid-Senior` | Docker, Kubernetes, RabbitMQ (queueing), Kong Gateway |
+
+---
+
+## `> ls /projects --sort=impact`
+
+<details open>
+<summary><b>▶ EV Charging Orchestration Platform &mdash; Real-time Booking &amp; Telemetry</b></summary>
+
+<br/>
+
+Real-time scheduling & orchestration engine for EV charging infrastructure. Includes mobile app, web portal, and kiosk simulation interface. Concurrency-safe booking, priority queueing, session lifecycle management, payment integration, and telemetry ingestion.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Dart/Flutter &middot; React &middot; TypeScript &middot; PostgreSQL &middot; PL/pgSQL |
+| **Scale** | Concurrency-safe booking and real-time telemetry ingestion |
+| **Performance** | Priority queueing &amp; session lifecycle management |
+| **Security** | Scoped access controls, secure payment integration |
+| **Impact** | End-to-end prototype for EV charging scheduling &amp; simulation |
+| **Repo** | [`github.com/Victor-201/ev-charging-orchestration-platform`](https://github.com/Victor-201/ev-charging-orchestration-platform) |
+
+</details>
+
+<details>
+<summary><b>▶ StudyHub Platform &mdash; Social Learning &amp; Real-time Collaboration</b></summary>
+
+<br/>
+
+Social learning platform for sharing study materials, creating study groups, real-time chat, and community ratings.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Node.js &middot; Express &middot; EJS &middot; PostgreSQL &middot; JavaScript |
+| **Scale** | Real-time messaging and group collaboration tools |
+| **Performance** | Optimized database queries for community ratings &amp; material sharing |
+| **Security** | Secure user authentication and resource access controls |
+| **Impact** | Interactive community learning and material sharing platform |
+| **Repo** | [`github.com/Victor-201/studyhub-platform`](https://github.com/Victor-201/studyhub-platform) |
+
+</details>
+
+<details>
+<summary><b>▶ Queens Hill Climbing &mdash; Interactive Algorithm Visualization</b></summary>
+
+<br/>
+
+Interactive visualization of the N-Queens problem solved using the Steepest-Ascent Hill Climbing algorithm. Educational tool demonstrating local search heuristic optimization.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | JavaScript &middot; HTML &middot; CSS &middot; GitHub Pages |
+| **Scale** | Fully client-side algorithmic execution and interactive canvas rendering |
+| **Performance** | Smooth step-by-step state visualization of local search heuristics |
+| **UX** | Real-time speed controls, board size configuration, and state analysis |
+| **Impact** | Educational tool for visualizing search heuristic optimization |
+| **Repo** | [`github.com/Victor-201/queens-hill-climbing`](https://github.com/Victor-201/queens-hill-climbing) &middot; [**Live Demo**](https://victor-201.github.io/queens-hill-climbing/) |
+
+</details>
+
+<details>
+<summary><b>▶ WebDev Toolkit &mdash; Developer Productivity Browser Extension</b></summary>
+
+<br/>
+
+All-in-one Chrome extension for web developers — color picker, font detector, image downloader, page ruler, CSS inspector, and productivity tools.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | JavaScript &middot; HTML &middot; CSS &middot; Chrome Extension APIs |
+| **Features** | Color picker, font detector, image downloader, page ruler, CSS inspector |
+| **Performance** | Lightweight content scripts with minimal memory overhead |
+| **UX** | Direct overlay on target webpages with intuitive control panel |
+| **Impact** | Productivity boost for frontend developers and designers |
+| **Repo** | [`github.com/Victor-201/webdev-toolkit`](https://github.com/Victor-201/webdev-toolkit) |
+
+</details>
+
+---
+
+## `> git stats --global`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-201&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="top-langs" />
+
+</div>
+
+---
+
+## `> trophy-case --display`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Victor-201&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+
+</div>
+
+---
+
+## `> activity-graph --timeline`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-201&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
+
+</div>
+
+---
+
+## `> contribution-report --detailed`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victor-201&theme=2077" width="100%" alt="profile-details" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor-201&theme=2077" alt="repos-per-language" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Victor-201&theme=2077" alt="most-commit-language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Victor-201&theme=2077" alt="stats-card" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Victor-201&theme=2077&utcOffset=7" alt="productive-time" />
+
+</div>
+
+---
+
+## `> ./snake-animation.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Victor-201/Victor-201/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+</div>
+
+---
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Advanced cloud architectures & system scaling
+  - Web3 & decentralized technology foundations
+
+building:
+  - Real-time IoT / telemetry ingestion simulators
+  - Cross-platform Flutter & React Native integrations
+
+exploring:
+  - High-concurrency database optimizations
+  - Edge computing & API gateway performance at scale
+
+open_to:
+  - Fullstack Developer roles (React / Node.js)
+  - Mobile App Development (React Native / Flutter)
+  - High-impact backend engineering teams
+```
+
+---
+
+## `> ping me`
+
+<div align="center">
+
+<a href="mailto:4.victor.201@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
+<a href="https://victor-201.github.io"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
+<a href="https://github.com/Victor-201"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
+<a href="https://dev.to/victor-201"><img src="https://img.shields.io/badge/Dev.to-CAFF3C?style=for-the-badge&logo=devdotto&logoColor=000000&labelColor=060D08" alt="dev.to" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub><i>// by day: crafting full-stack experiences &nbsp;|&nbsp; by night: exploring system architectures</i></sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
+
+</div>
+
 
