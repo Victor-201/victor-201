@@ -70,6 +70,20 @@ OPEN_TO     =  Fullstack Engineering  +  Frontend/Backend Roles  +  Mobile Dev
 
 ---
 
+## `> cat security-expertise.json`
+
+```json
+{
+  "authentication"   : ["JWT", "Session-based Auth", "OAuth2 flows"],
+  "access_control"  : ["RBAC", "Scoped permissions", "Resource-level guards"],
+  "api_security"    : ["Kong Gateway rate-limiting", "CORS config", "Input validation & sanitization"],
+  "database"        : ["Parameterized queries via Prisma", "PL/pgSQL row-level controls", "Sequelize protections"],
+  "infrastructure"  : ["Docker container isolation", "Kubernetes secrets management", "Firebase security rules"]
+}
+```
+
+---
+
 ## `> ls /projects --sort=impact`
 
 <details open>
@@ -146,6 +160,53 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 ---
 
+## `> cat experience.log`
+
+```log
+[2023 → Present]  Freelance Fullstack Developer  ·  ~2 years
+──────────────────────────────────────────────────────────
+Mode     : Independent Contractor
+Focus    : Full-stack web & mobile application development
+Projects : EV Charging Orchestration Platform
+           StudyHub Social Learning Platform
+           WebDev Toolkit Chrome Extension
+           Queens Hill Climbing Algorithm Visualizer
+Stack    : React · React Native · Node.js · TypeScript · PostgreSQL · Docker
+Scope    : End-to-end ownership — architecture, backend, frontend, deployment
+```
+
+---
+
+## `> echo $ACHIEVEMENTS`
+
+```bash
+$ echo $ACHIEVEMENTS
+
+  ✦  684+  commits pushed across 13+ repositories
+  ✦  4     end-to-end full-stack products delivered independently
+  ✦  Built real-time EV charging telemetry & orchestration platform
+  ✦  Architected concurrency-safe booking engine with priority queueing
+  ✦  Integrated Kong API Gateway + RabbitMQ message broker pipeline
+  ✦  Cross-platform mobile apps shipped with React Native & Flutter
+  ✦  2+    years of consistent independent freelance delivery
+```
+
+---
+
+## `> git log --oneline /education`
+
+```bash
+$ git log --oneline /education
+
+2021  init  : Enrolled — Đại học Giao thông Vận tải TP.HCM
+              (Ho Chi Minh City University of Transport)
+      major : Information Technology
+      focus : Software Engineering & Systems Architecture
+      status: Undergraduate · Expected Graduation 2025
+```
+
+---
+
 ## `> git stats --global`
 
 <div align="center">
@@ -199,7 +260,17 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 </div>
 
+---
 
+## `> ./snake-animation.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Victor-201/victor-201/images/snake.svg" alt="snake" />
+
+</div>
+
+---
 
 ## `> cat current-focus.yaml`
 
