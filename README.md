@@ -159,6 +159,7 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 </div>
 
+<!-- 
 ---
 
 ## `> trophy-case --display`
@@ -170,6 +171,7 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 </div>
 
 ---
+-->
 
 ## `> activity-graph --timeline`
 
@@ -181,7 +183,6 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 ---
 
-<!--
 ## `> contribution-report --detailed`
 
 <div align="center">
@@ -199,7 +200,6 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-201&theme=github_dark&utcOffset=7" alt="productive-time" />
 
 </div>
--->
 
 
 
