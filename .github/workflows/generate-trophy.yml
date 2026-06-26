@@ -1,0 +1,35 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: images
+
+      - name: Generate Trophy
+        uses: soulteary/github-profile-trophy-action@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: Victor-201
+          theme: matrix
+          no-frame: true
+          no-bg: true
+          column: 7
+          output: trophies.svg
+
+      - name: Commit and push trophies.svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update trophies.svg"
+          branch: images
+          file_pattern: trophies.svg
