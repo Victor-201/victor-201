@@ -1,11 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=140&color=0a0f08&desc=Fullstack%20Developer%20%7C%20React%20and%20Mobile%20Builder%20%7C%20Node.js%20Engineer&descSize=15&descColor=8AFF57&descAlignY=55&animation=fadeIn" alt="banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=500&color=CAFF3C&center=true&vCenter=true&width=820&height=70&lines=VICTOR;NGUY%E1%BB%84N%20V%C4%82N%20TH%E1%BA%AENG" alt="typing-name" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=120&color=0a0f08&animation=fadeIn" alt="banner" />
 
 <a href="https://github.com/Victor-201">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Fullstack+Developer+%2F+React+%26+Node.js+Engineer;%24+grep+-r+%22stack%22+%E2%86%92+React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;%24+ls+%2Finterests+%E2%86%92+Web+Apps+%7C+Mobile+Apps+%7C+Telemetry+%7C+UI%2FUX;%24+cat+featured-project.txt+%E2%86%92+EV+Charging+Orchestration+Platform" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&color=CAFF3C&center=true&vCenter=true&width=820&height=55&lines=%3E_VICTOR;%3E_NGUY%E1%BB%84N+V%C4%82N+TH%E1%BA%AENG" alt="typing-name" />
+</a>
+
+<a href="https://github.com/Victor-201">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=8AFF57&center=true&vCenter=true&width=820&height=45&lines=%24+whoami+%E2%86%92+Fullstack+Developer+%2F+React+%26+Node.js+Engineer;%24+grep+-r+%22stack%22+%E2%86%92+React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;%24+ls+%2Finterests+%E2%86%92+Web+Apps+%7C+Mobile+Apps+%7C+Telemetry+%7C+UI%2FUX;%24+cat+featured-project.txt+%E2%86%92+EV+Charging+Orchestration+Platform" alt="typing-terminal" />
 </a>
 
 <br/>
