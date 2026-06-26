@@ -1,0 +1,343 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="112" viewBox="0 0 854 112">
+  <style>
+    @keyframes snake-move {
+      0%   { transform: translateX(0); }
+      100% { transform: translateX(-427px); }
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes dot-eat {
+      0%, 100% { r: 4; opacity: 0.4; }
+      50% { r: 0; opacity: 0; }
+    }
+    .grid-line { stroke: #1a2b1a; stroke-width: 0.5; }
+    .dot { fill: #2d5a27; }
+    .dot-bright { fill: #39FF14; }
+    .snake-body { fill: #39FF14; opacity: 0.9; }
+    .snake-head { fill: #7fff00; }
+    .snake-eye { fill: #0d1117; animation: blink 1.5s ease-in-out infinite; }
+    .label { fill: #39FF14; font-family: 'Fira Code', monospace; font-size: 10px; opacity: 0.6; }
+  </style>
+
+  <!-- Background -->
+  <rect width="854" height="112" fill="#0d1117" rx="6"/>
+
+  <!-- Grid columns label (weeks) -->
+  <text x="8" y="12" class="label">SUN</text>
+  <text x="8" y="26" class="label" opacity="0.3">MON</text>
+  <text x="8" y="40" class="label">TUE</text>
+  <text x="8" y="54" class="label" opacity="0.3">WED</text>
+  <text x="8" y="68" class="label">THU</text>
+  <text x="8" y="82" class="label" opacity="0.3">FRI</text>
+  <text x="8" y="96" class="label">SAT</text>
+
+  <!-- Contribution dots grid (52 weeks × 7 days) -->
+  <!-- Week pattern: random contribution density using groups -->
+  <g transform="translate(52, 4)">
+    <!-- Generate a contribution pattern manually - dots at 12px spacing -->
+    <!-- Row 0 (Sun) -->
+    <rect x="0"   y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="12"  y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="24"  y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="36"  y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="48"  y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="60"  y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="72"  y="0"  width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="84"  y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="96"  y="0"  width="10" height="10" rx="2" class="dot" opacity="0.4"/>
+    <rect x="108" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="120" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="132" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="144" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="156" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="168" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="180" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="192" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="204" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="216" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="228" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="240" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.4"/>
+    <rect x="252" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="264" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="276" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="288" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="300" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="312" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="324" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="336" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.4"/>
+    <rect x="348" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="360" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="372" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="384" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="396" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="408" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="420" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="432" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="444" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="456" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="468" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="480" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.4"/>
+    <rect x="492" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="504" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="516" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="528" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="540" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="552" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="564" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="576" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="588" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="600" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="612" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="624" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.4"/>
+    <rect x="636" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="648" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="660" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="672" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="684" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="696" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="708" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="720" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.4"/>
+    <rect x="732" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="744" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="756" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="768" y="0"  width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="780" y="0"  width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+
+    <!-- Rows 1-6 (Mon-Sat) - abbreviated for file size, same pattern offset -->
+    <!-- Row 1 (Mon) -->
+    <rect x="0" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="12" y="12" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="24" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="48" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="72" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="96" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.3"/>
+    <rect x="120" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="144" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="168" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="192" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="216" y="12" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="240" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="264" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="288" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="312" y="12" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="336" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="360" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="384" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="408" y="12" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="432" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="456" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="480" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="504" y="12" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="528" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="552" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="576" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="600" y="12" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="624" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="648" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="672" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="696" y="12" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="720" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="744" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="768" y="12" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+
+    <!-- Row 2 (Tue) -->
+    <rect x="0" y="24" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="24" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="48" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="72" y="24" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="96" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="120" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="144" y="24" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="168" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="192" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="216" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="240" y="24" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="264" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="288" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.3"/>
+    <rect x="312" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="336" y="24" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="360" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="384" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="408" y="24" width="10" height="10" rx="2" class="dot" opacity="0.4"/>
+    <rect x="432" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="456" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="480" y="24" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="504" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="528" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="552" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.3"/>
+    <rect x="576" y="24" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="600" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="624" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="648" y="24" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="672" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="696" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="720" y="24" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="744" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="768" y="24" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+
+    <!-- Row 3 (Wed) -->
+    <rect x="12" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="36" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="60" y="36" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="84" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="108" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.3"/>
+    <rect x="132" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="156" y="36" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="180" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="204" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="228" y="36" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="252" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="276" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="300" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="324" y="36" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="348" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="372" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="396" y="36" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="420" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="444" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="468" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.3"/>
+    <rect x="492" y="36" width="10" height="10" rx="2" class="dot" opacity="0.4"/>
+    <rect x="516" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="540" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="564" y="36" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="588" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="612" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="636" y="36" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="660" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="684" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="708" y="36" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="732" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="756" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="780" y="36" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+
+    <!-- Row 4 (Thu) -->
+    <rect x="0" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="24" y="48" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="48" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="72" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="96" y="48" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="120" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="144" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="168" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.3"/>
+    <rect x="192" y="48" width="10" height="10" rx="2" class="dot" opacity="0.6"/>
+    <rect x="216" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="240" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="264" y="48" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="288" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="312" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="336" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="360" y="48" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="384" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="408" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="432" y="48" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="456" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="480" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="504" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="528" y="48" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="552" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="576" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="600" y="48" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="624" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="648" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="672" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="696" y="48" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="720" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="744" y="48" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="768" y="48" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+
+    <!-- Row 5 (Fri) -->
+    <rect x="12" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="36" y="60" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="60" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="84" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="108" y="60" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="132" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="156" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="180" y="60" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="204" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="228" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="252" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="276" y="60" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="300" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="324" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="348" y="60" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="372" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="396" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="420" y="60" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="444" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="468" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="492" y="60" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="516" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="540" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="564" y="60" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="588" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="612" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="636" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="660" y="60" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="684" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="708" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="732" y="60" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="756" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="780" y="60" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+
+    <!-- Row 6 (Sat) -->
+    <rect x="0" y="72" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="24" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="48" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="72" y="72" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="96" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="120" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="144" y="72" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="168" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="192" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="216" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.3"/>
+    <rect x="240" y="72" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="264" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="288" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="312" y="72" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="336" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="360" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="384" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="408" y="72" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="432" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="456" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="480" y="72" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="504" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="528" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.6"/>
+    <rect x="552" y="72" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+    <rect x="576" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.8"/>
+    <rect x="600" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.4"/>
+    <rect x="624" y="72" width="10" height="10" rx="2" class="dot" opacity="0.2"/>
+    <rect x="648" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.7"/>
+    <rect x="672" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="1"/>
+    <rect x="696" y="72" width="10" height="10" rx="2" class="dot" opacity="0.1"/>
+    <rect x="720" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.9"/>
+    <rect x="744" y="72" width="10" height="10" rx="2" class="dot-bright" opacity="0.5"/>
+    <rect x="768" y="72" width="10" height="10" rx="2" class="dot" opacity="0.3"/>
+  </g>
+
+  <!-- Snake body animation path (winding through rows) -->
+  <g id="snake">
+    <animateTransform attributeName="transform" type="translate" from="52,4" to="836,4" dur="8s" repeatCount="indefinite" calcMode="linear"/>
+    <!-- Tail segments -->
+    <rect x="-96" y="0" width="10" height="10" rx="3" fill="#1a4d1a" opacity="0.4"/>
+    <rect x="-84" y="0" width="10" height="10" rx="3" fill="#1f5c1f" opacity="0.5"/>
+    <rect x="-72" y="0" width="10" height="10" rx="3" fill="#266626" opacity="0.6"/>
+    <rect x="-60" y="0" width="10" height="10" rx="3" fill="#2d7a2d" opacity="0.7"/>
+    <rect x="-48" y="0" width="10" height="10" rx="3" fill="#33891a" opacity="0.8"/>
+    <rect x="-36" y="0" width="10" height="10" rx="3" fill="#39FF14" opacity="0.85"/>
+    <rect x="-24" y="0" width="10" height="10" rx="3" fill="#39FF14" opacity="0.9"/>
+    <rect x="-12" y="0" width="10" height="10" rx="3" fill="#39FF14" opacity="0.95"/>
+    <!-- Head -->
+    <rect x="0" y="0" width="11" height="11" rx="3" fill="#7fff00"/>
+    <!-- Eyes -->
+    <circle cx="7" cy="3" r="1.5" fill="#0d1117">
+      <animate attributeName="r" values="1.5;0;1.5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Bottom label -->
+  <text x="427" y="106" text-anchor="middle" font-size="9" fill="#39FF14" font-family="monospace" opacity="0.5">// contribution graph — Victor-201</text>
+</svg>
