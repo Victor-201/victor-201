@@ -79,7 +79,7 @@ OPEN_TO     =  Fullstack Engineering  +  Frontend/Backend Roles  +  Mobile Dev
 ## `> ls /projects --sort=impact`
 
 <details open>
-<summary><b>&gt; EV Charging Orchestration Platform &mdash; Real-time Booking &amp; Telemetry</b></summary>
+<summary><b>EV Charging Orchestration Platform &mdash; Real-time Booking &amp; Telemetry</b></summary>
 
 <br/>
 
@@ -97,7 +97,7 @@ Real-time scheduling & orchestration engine for EV charging infrastructure. Incl
 </details>
 
 <details>
-<summary><b>&gt; StudyHub Platform &mdash; Social Learning &amp; Real-time Collaboration</b></summary>
+<summary><b>StudyHub Platform &mdash; Social Learning &amp; Real-time Collaboration</b></summary>
 
 <br/>
 
@@ -115,7 +115,7 @@ Social learning platform for sharing study materials, creating study groups, rea
 </details>
 
 <details>
-<summary><b>&gt; Queens Hill Climbing &mdash; Interactive Algorithm Visualization</b></summary>
+<summary><b>Queens Hill Climbing &mdash; Interactive Algorithm Visualization</b></summary>
 
 <br/>
 
@@ -133,7 +133,7 @@ Interactive visualization of the N-Queens problem solved using the Steepest-Asce
 </details>
 
 <details>
-<summary><b>&gt; WebDev Toolkit &mdash; Developer Productivity Browser Extension</b></summary>
+<summary><b>WebDev Toolkit &mdash; Developer Productivity Browser Extension</b></summary>
 
 <br/>
 
