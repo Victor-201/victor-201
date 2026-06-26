@@ -187,17 +187,17 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-201&theme=vue" width="100%" alt="profile-details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-201&theme=github_dark" width="100%" alt="profile-details" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-201&theme=vue" alt="repos-per-language" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-201&theme=vue" alt="most-commit-language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-201&theme=github_dark" alt="repos-per-language" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-201&theme=github_dark" alt="most-commit-language" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-201&theme=vue" alt="stats-card" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-201&theme=vue&utcOffset=7" alt="productive-time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-201&theme=github_dark" alt="stats-card" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-201&theme=github_dark&utcOffset=7" alt="productive-time" />
 
 </div>
 
