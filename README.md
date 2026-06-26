@@ -159,7 +159,6 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 </div>
 
-<!-- 
 ---
 
 ## `> trophy-case --display`
@@ -171,7 +170,6 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 </div>
 
 ---
--->
 
 ## `> activity-graph --timeline`
 
