@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=220&color=0a0f08&fontColor=CAFF3C&text=%3E_%20VICTOR%20THANG&fontSize=38&fontAlignY=40&desc=Fullstack%20Developer%20%7C%20React%20and%20Mobile%20Builder%20%7C%20Node.js%20Engineer&descSize=15&descColor=8AFF57&descAlignY=63&animation=fadeIn" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=140&color=0a0f08&desc=Fullstack%20Developer%20%7C%20React%20and%20Mobile%20Builder%20%7C%20Node.js%20Engineer&descSize=15&descColor=8AFF57&descAlignY=55&animation=fadeIn" alt="banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=500&color=CAFF3C&center=true&vCenter=true&width=820&height=70&lines=VICTOR;NGUY%E1%BB%84N%20V%C4%82N%20TH%E1%BA%AENG" alt="typing-name" />
 
 <a href="https://github.com/Victor-201">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+Fullstack+Developer+%2F+React+%26+Node.js+Engineer;%24+grep+-r+%22stack%22+%E2%86%92+React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;%24+ls+%2Finterests+%E2%86%92+Web+Apps+%7C+Mobile+Apps+%7C+Telemetry+%7C+UI%2FUX;%24+cat+featured-project.txt+%E2%86%92+EV+Charging+Orchestration+Platform" alt="typing" />
