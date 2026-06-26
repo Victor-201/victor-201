@@ -167,10 +167,6 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 ──────────────────────────────────────────────────────────
 Mode     : Independent Contractor
 Focus    : Full-stack web & mobile application development
-Projects : EV Charging Orchestration Platform
-           StudyHub Social Learning Platform
-           WebDev Toolkit Chrome Extension
-           Queens Hill Climbing Algorithm Visualizer
 Stack    : React · React Native · Node.js · TypeScript · PostgreSQL · Docker
 Scope    : End-to-end ownership — architecture, backend, frontend, deployment
 ```
