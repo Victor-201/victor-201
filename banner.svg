@@ -18,11 +18,11 @@
     }
     
     .text1 {
-      animation: toggle1 1.0s step-end infinite;
+      animation: toggle1 2.0s step-end infinite;
     }
     
     .text2 {
-      animation: toggle2 1.0s step-end infinite;
+      animation: toggle2 2.0s step-end infinite;
     }
     
     @keyframes toggle1 {
