@@ -1,0 +1,48 @@
+<svg width="854" height="220" viewBox="0 0 854 220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&amp;display=swap');
+    
+    .text1, .text2 {
+      font-size: 38px;
+      font-weight: 700;
+      font-family: 'Fira Code', 'JetBrains Mono', Monaco, Consolas, monospace, -apple-system, sans-serif;
+      fill: #CAFF3C;
+    }
+    
+    .desc {
+      font-size: 15px;
+      font-weight: 600;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      fill: #8AFF57;
+      opacity: 0.9;
+    }
+    
+    .text1 {
+      animation: toggle1 2.0s step-end infinite;
+    }
+    
+    .text2 {
+      animation: toggle2 2.0s step-end infinite;
+    }
+    
+    @keyframes toggle1 {
+      0%, 49% { opacity: 1; visibility: visible; }
+      50%, 100% { opacity: 0; visibility: hidden; }
+    }
+    
+    @keyframes toggle2 {
+      0%, 49% { opacity: 0; visibility: hidden; }
+      50%, 100% { opacity: 1; visibility: visible; }
+    }
+  </style>
+  
+  <!-- Shark shape background -->
+  <path fill="#0a0f08" fill-opacity="1" d="M 0 125 C 61 247 61 247 122 125 C 183 247 183 247 244 125 C 305 247 305 247 366 125 C 427 247 427 247 488 125 C 549 247 549 247 610 125 C 671 247 671 247 732 125 C 793 247 793 247 854 125 L 854 0 L 0 0 L 0 305 "></path>
+  
+  <!-- Animated Main Texts -->
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="43%" class="text1">&gt;_ VICTOR</text>
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="43%" class="text2">&gt;_ NGUYỄN VĂN THẮNG</text>
+  
+  <!-- Static Description -->
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="63%" class="desc">Fullstack Developer • React &amp; Mobile Builder • Node.js Engineer</text>
+</svg>
