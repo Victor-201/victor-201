@@ -159,19 +159,17 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 
 </div>
 
-<!-- 
 ---
 
 ## `> trophy-case --display`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Victor-201&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies.svg" alt="trophies" />
 
 </div>
 
 ---
--->
 
 ## `> activity-graph --timeline`
 
