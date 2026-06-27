@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="160" viewBox="0 0 854 160">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap');
+    .trophy-card { fill: none; stroke: #1f883d; stroke-width: 1.5; rx: 8; }
+    .trophy-icon { fill: #1f883d; font-size: 28px; font-family: 'Fira Code', monospace; }
+    .trophy-title { fill: #24292f; font-size: 11px; font-weight: 700; font-family: 'Fira Code', monospace; text-anchor: middle; }
+    .trophy-rank { fill: #57606a; font-size: 9px; font-family: 'Fira Code', monospace; text-anchor: middle; }
+    .trophy-value { fill: #1f883d; font-size: 13px; font-weight: 700; font-family: 'Fira Code', monospace; text-anchor: middle; }
+    @keyframes glow { 0%, 100% { opacity: 1; } 50% { opacity: 0.6; } }
+    .glow { animation: glow 2.5s ease-in-out infinite; }
+  </style>
+
+  <!-- Trophy 1: Stars (rank: S) -->
+  <rect x="4" y="4" width="113" height="150" rx="8" fill="#f6f8fa" stroke="#1f883d" stroke-width="1.5"/>
+  <text x="60" y="44" text-anchor="middle" font-size="30" font-family="monospace" class="glow">🏆</text>
+  <text x="60" y="70" class="trophy-value">S</text>
+  <text x="60" y="86" class="trophy-title">Stars</text>
+  <text x="60" y="99" class="trophy-rank">[ SECRET ]</text>
+  <rect x="20" y="110" width="80" height="1" fill="#1f883d" opacity="0.2"/>
+  <text x="60" y="128" class="trophy-rank">★ 16</text>
+
+  <!-- Trophy 2: Commits (rank: A++) -->
+  <rect x="125" y="4" width="113" height="150" rx="8" fill="#f6f8fa" stroke="#1f883d" stroke-width="1.5"/>
+  <text x="181" y="44" text-anchor="middle" font-size="30" font-family="monospace" class="glow">🏆</text>
+  <text x="181" y="70" class="trophy-value">A++</text>
+  <text x="181" y="86" class="trophy-title">Commits</text>
+  <text x="181" y="99" class="trophy-rank">[ DIAMOND ]</text>
+  <rect x="141" y="110" width="80" height="1" fill="#1f883d" opacity="0.2"/>
+  <text x="181" y="128" class="trophy-rank">⬡ 684</text>
+
+  <!-- Trophy 3: Followers (rank: B) -->
+  <rect x="246" y="4" width="113" height="150" rx="8" fill="#f6f8fa" stroke="#1f883d" stroke-width="1.5"/>
+  <text x="302" y="44" text-anchor="middle" font-size="30" font-family="monospace" class="glow">🏆</text>
+  <text x="302" y="70" class="trophy-value">B</text>
+  <text x="302" y="86" class="trophy-title">Followers</text>
+  <text x="302" y="99" class="trophy-rank">[ SILVER ]</text>
+  <rect x="262" y="110" width="80" height="1" fill="#1f883d" opacity="0.2"/>
+  <text x="302" y="128" class="trophy-rank">👥 1+</text>
+
+  <!-- Trophy 4: Issues (rank: B) -->
+  <rect x="367" y="4" width="113" height="150" rx="8" fill="#f6f8fa" stroke="#1f883d" stroke-width="1.5"/>
+  <text x="423" y="44" text-anchor="middle" font-size="30" font-family="monospace" class="glow">🏆</text>
+  <text x="423" y="70" class="trophy-value">A</text>
+  <text x="423" y="86" class="trophy-title">Issues</text>
+  <text x="423" y="99" class="trophy-rank">[ GOLD ]</text>
+  <rect x="383" y="110" width="80" height="1" fill="#1f883d" opacity="0.2"/>
+  <text x="423" y="128" class="trophy-rank">⚑ 50</text>
+
+  <!-- Trophy 5: Pull Requests (rank: C) -->
+  <rect x="488" y="4" width="113" height="150" rx="8" fill="#f6f8fa" stroke="#1f883d" stroke-width="1.5"/>
+  <text x="544" y="44" text-anchor="middle" font-size="30" font-family="monospace" class="glow">🏆</text>
+  <text x="544" y="70" class="trophy-value">C</text>
+  <text x="544" y="86" class="trophy-title">Pull Request</text>
+  <text x="544" y="99" class="trophy-rank">[ BRONZE ]</text>
+  <rect x="504" y="110" width="80" height="1" fill="#1f883d" opacity="0.2"/>
+  <text x="544" y="128" class="trophy-rank">⤴ 0</text>
+
+  <!-- Trophy 6: Repos (rank: A) -->
+  <rect x="609" y="4" width="113" height="150" rx="8" fill="#f6f8fa" stroke="#1f883d" stroke-width="1.5"/>
+  <text x="665" y="44" text-anchor="middle" font-size="30" font-family="monospace" class="glow">🏆</text>
+  <text x="665" y="70" class="trophy-value">A</text>
+  <text x="665" y="86" class="trophy-title">Repositories</text>
+  <text x="665" y="99" class="trophy-rank">[ GOLD ]</text>
+  <rect x="625" y="110" width="80" height="1" fill="#1f883d" opacity="0.2"/>
+  <text x="665" y="128" class="trophy-rank">⛁ 13</text>
+
+  <!-- Trophy 7: Experience (rank: A) -->
+  <rect x="730" y="4" width="120" height="150" rx="8" fill="#f6f8fa" stroke="#1f883d" stroke-width="1.5"/>
+  <text x="790" y="44" text-anchor="middle" font-size="30" font-family="monospace" class="glow">🏆</text>
+  <text x="790" y="70" class="trophy-value">A+</text>
+  <text x="790" y="86" class="trophy-title">Experience</text>
+  <text x="790" y="99" class="trophy-rank">[ PLATINUM ]</text>
+  <rect x="750" y="110" width="80" height="1" fill="#1f883d" opacity="0.2"/>
+  <text x="790" y="128" class="trophy-rank">★ 1yr+</text>
+</svg>

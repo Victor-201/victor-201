@@ -1,0 +1,184 @@
+<svg width="854" height="220" viewBox="0 0 854 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip1">
+      <rect id="rect1" x="68.4" y="-30" width="0" height="60" />
+    </clipPath>
+    <clipPath id="clip2">
+      <rect id="rect2" x="68.4" y="-30" width="0" height="60" />
+    </clipPath>
+  </defs>
+  
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&amp;display=swap');
+    
+    .terminal-text {
+      font-size: 38px;
+      font-weight: 700;
+      font-family: 'Fira Code', 'JetBrains Mono', Monaco, Consolas, monospace;
+    }
+    
+    .prefix {
+      fill: #1f883d;
+    }
+    
+    .name1, .name2 {
+      fill: #1f883d;
+    }
+    
+    .desc {
+      font-size: 15px;
+      font-weight: 600;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      fill: #24292f;
+      opacity: 0.8;
+    }
+    
+    #rect1 {
+      animation: clip1-anim 4.0s infinite;
+    }
+    
+    #rect2 {
+      animation: clip2-anim 4.0s infinite;
+    }
+    
+    .group1 {
+      animation: group1-opacity 4.0s step-end infinite;
+    }
+    
+    .group2 {
+      animation: group2-opacity 4.0s step-end infinite;
+    }
+    
+    /* Cursor styling */
+    .cursor {
+      fill: #1f883d;
+    }
+    
+    #cursor1 {
+      animation: cursor1-anim 4.0s infinite, blink 0.5s step-end infinite;
+    }
+    
+    #cursor2 {
+      animation: cursor2-anim 4.0s infinite, blink 0.5s step-end infinite;
+    }
+    
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    
+    @keyframes clip1-anim {
+      0% {
+        width: 0;
+        animation-timing-function: steps(6, end);
+      }
+      7.5% { /* 0.3s */
+        width: 136.8px;
+        animation-timing-function: linear;
+      }
+      32.5% { /* 1.3s */
+        width: 136.8px;
+        animation-timing-function: steps(6, end);
+      }
+      40% { /* 1.6s */
+        width: 0;
+        animation-timing-function: linear;
+      }
+      100% {
+        width: 0;
+      }
+    }
+    
+    @keyframes cursor1-anim {
+      0% {
+        transform: translateX(0);
+        animation-timing-function: steps(6, end);
+      }
+      7.5% {
+        transform: translateX(136.8px);
+        animation-timing-function: linear;
+      }
+      32.5% {
+        transform: translateX(136.8px);
+        animation-timing-function: steps(6, end);
+      }
+      40% {
+        transform: translateX(0);
+      }
+      100% {
+        transform: translateX(0);
+      }
+    }
+    
+    @keyframes group1-opacity {
+      0%, 39.9% { opacity: 1; visibility: visible; }
+      40%, 100% { opacity: 0; visibility: hidden; }
+    }
+    
+    @keyframes clip2-anim {
+      0%, 45% { /* 1.8s */
+        width: 0;
+        animation-timing-function: steps(16, end);
+      }
+      57.5% { /* 2.3s */
+        width: 364.8px;
+        animation-timing-function: linear;
+      }
+      82.5% { /* 3.3s */
+        width: 364.8px;
+        animation-timing-function: steps(16, end);
+      }
+      95% { /* 3.8s */
+        width: 0;
+        animation-timing-function: linear;
+      }
+      100% {
+        width: 0;
+      }
+    }
+    
+    @keyframes cursor2-anim {
+      0%, 45% {
+        transform: translateX(0);
+        animation-timing-function: steps(16, end);
+      }
+      57.5% {
+        transform: translateX(364.8px);
+        animation-timing-function: linear;
+      }
+      82.5% {
+        transform: translateX(364.8px);
+        animation-timing-function: steps(16, end);
+      }
+      95% {
+        transform: translateX(0);
+      }
+      100% {
+        transform: translateX(0);
+      }
+    }
+    
+    @keyframes group2-opacity {
+      0%, 44.9% { opacity: 0; visibility: hidden; }
+      45%, 94.9% { opacity: 1; visibility: visible; }
+      95%, 100% { opacity: 0; visibility: hidden; }
+    }
+  </style>
+  
+  <!-- Shark shape background (Light Mode: light gray/green) -->
+  <path fill="#f6f8fa" fill-opacity="1" d="M 0 125 C 61 247 61 247 122 125 C 183 247 183 247 244 125 C 305 247 305 247 366 125 C 427 247 427 247 488 125 C 549 247 549 247 610 125 C 671 247 671 247 732 125 C 793 247 793 247 854 125 L 854 0 L 0 0 L 0 305 "></path>
+  
+  <g transform="translate(324.4, 105)" class="terminal-text group1">
+    <text x="0" y="0" dominant-baseline="middle" class="prefix">&gt;_ </text>
+    <text x="68.4" y="0" dominant-baseline="middle" class="name1" clip-path="url(#clip1)">Victor</text>
+    <rect id="cursor1" x="68.4" y="-22" width="12" height="34" class="cursor" />
+  </g>
+  
+  <g transform="translate(210.4, 105)" class="terminal-text group2">
+    <text x="0" y="0" dominant-baseline="middle" class="prefix">&gt;_ </text>
+    <text x="68.4" y="0" dominant-baseline="middle" class="name2" clip-path="url(#clip2)">NGUYỄN VĂN THẮNG</text>
+    <rect id="cursor2" x="68.4" y="-22" width="12" height="34" class="cursor" />
+  </g>
+  
+  <text text-anchor="middle" dominant-baseline="middle" x="50%" y="63%" class="desc">Fullstack Developer • React and Mobile Builder • Node.js Engineer</text>
+</svg>
