@@ -62,11 +62,11 @@ OPEN_TO     =  Fullstack Engineering  +  Frontend/Backend Roles  +  Mobile Dev
 
 | Area | Proficiency | Focus &amp; Tools |
 | :-- | :-- | :-- |
-| **Frontend Development** | `██████████ Expert` | React, Redux Toolkit, Tailwind CSS, Vite, responsive UI |
-| **Mobile Development** | `█████████░ Senior` | React Native, cross-platform apps, mobile UI/UX |
-| **Backend Services** | `█████████░ Senior` | Node.js, Express.js, NestJS, RESTful API design |
-| **Database Systems** | `█████████░ Senior` | PostgreSQL (PL/pgSQL), MySQL, Prisma, Sequelize |
-| **System Orchestration** | `████████░░ Mid-Senior` | Docker, Kubernetes, RabbitMQ (queueing), Kong Gateway |
+| **Frontend Development** | `██████████` | React, Redux Toolkit, Tailwind CSS, Vite, responsive UI |
+| **Mobile Development** | `████████░░` | React Native, cross-platform apps, mobile UI/UX |
+| **Backend Services** | `█████████░` | Node.js, Express.js, NestJS, RESTful API design |
+| **Database Systems** | `█████████░` | PostgreSQL (PL/pgSQL), MySQL, Prisma, Sequelize |
+| **System Orchestration** | `████████░░` | Docker, Kubernetes, RabbitMQ (queueing), Kong Gateway |
 
 ---
 
@@ -308,7 +308,7 @@ open_to:
 
 <sub><i>// by day: crafting full-stack experiences &nbsp;|&nbsp; by night: exploring system architectures</i></sub>
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
 
