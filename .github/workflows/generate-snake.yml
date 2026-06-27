@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:       # trigger thủ công
 
 permissions:
   contents: write
@@ -12,22 +12,24 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout images branch
+        uses: actions/checkout@v4
         with:
           ref: images
 
-      - name: Generate Snake SVG
+      - name: Generate snake SVGs from contribution graph
         uses: Platane/snk@v3
         with:
           github_user_name: Victor-201
           outputs: |
-            snake.svg?palette=github-dark&color_snake=39FF14&color_dots=#0d1117,#1a2b1a,#2d5a27,#39FF14,#7fff00
+            snake.svg?palette=github-dark
+            snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake.svg to images branch
+      - name: Commit and push updated SVGs to images branch
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: auto-update snake.svg"
+          commit_message: "chore(snake): auto-update contribution graph snake animation"
           branch: images
-          file_pattern: snake.svg
+          file_pattern: "*.svg"
