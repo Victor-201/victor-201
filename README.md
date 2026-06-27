@@ -114,33 +114,33 @@ OPEN_TO     =  Fullstack Engineering  +  Frontend/Backend Roles  +  Mobile Dev
 **[ Languages ]**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts&theme=light" />
-  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="languages" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=js%2Cts&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js%2Cts&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts&amp;theme=dark" alt="languages" />
 </picture>
 
 **[ Frontend &amp; Mobile ]**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&theme=dark" alt="frontend" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=react%2Credux%2Ctailwind%2Cvite%2Chtml%2Ccss&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Credux%2Ctailwind%2Cvite%2Chtml%2Ccss&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&amp;theme=dark" alt="frontend" />
 </picture>
 
 **[ Backend &amp; Databases ]**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,prisma,sequelize&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,prisma,sequelize&theme=light" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,prisma,sequelize&theme=dark" alt="backend" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cnest%2Cpostgres%2Cmysql%2Cprisma%2Csequelize&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cnest%2Cpostgres%2Cmysql%2Cprisma%2Csequelize&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,prisma,sequelize&amp;theme=dark" alt="backend" />
 </picture>
 
 **[ Cloud, DevOps &amp; Infrastructure ]**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,firebase,git,github,npm&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,firebase,git,github,npm&theme=light" />
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,firebase,git,github,npm&theme=dark" alt="cloud" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Crabbitmq%2Cfirebase%2Cgit%2Cgithub%2Cnpm&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Crabbitmq%2Cfirebase%2Cgit%2Cgithub%2Cnpm&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,firebase,git,github,npm&amp;theme=dark" alt="cloud" />
 </picture>
 
 </div>
