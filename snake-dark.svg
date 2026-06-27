@@ -1,14 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="145" viewBox="0 0 900 145">
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="145" viewBox="0 0 900 145">
 <defs>
   <filter id="glow" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB">
     <feGaussianBlur in="SourceGraphic" stdDeviation="3.5" result="b1"/>
     <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="b2"/>
-    <feMerge>
-      <feMergeNode in="b1"/>
-      <feMergeNode in="b1"/>
-      <feMergeNode in="b2"/>
-      <feMergeNode in="SourceGraphic"/>
-    </feMerge>
+    <feMerge><feMergeNode in="b1"/><feMergeNode in="b1"/><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
   <filter id="cGlow" x="-80%" y="-80%" width="260%" height="260%">
     <feGaussianBlur stdDeviation="2.5" result="blur"/>
@@ -16,14 +11,12 @@
   </filter>
   <path id="sp" d="M 59.5,20.5 L 72.5,20.5 L 85.5,20.5 L 98.5,20.5 L 111.5,20.5 L 124.5,20.5 L 137.5,20.5 L 150.5,20.5 L 163.5,20.5 L 176.5,20.5 L 189.5,20.5 L 202.5,20.5 L 215.5,20.5 L 228.5,20.5 L 241.5,20.5 L 254.5,20.5 L 267.5,20.5 L 280.5,20.5 L 293.5,20.5 L 306.5,20.5 L 319.5,20.5 L 332.5,20.5 L 345.5,20.5 L 358.5,20.5 L 371.5,20.5 L 384.5,20.5 L 397.5,20.5 L 410.5,20.5 L 423.5,20.5 L 436.5,20.5 L 449.5,20.5 L 462.5,20.5 L 475.5,20.5 L 488.5,20.5 L 501.5,20.5 L 514.5,20.5 L 527.5,20.5 L 540.5,20.5 L 553.5,20.5 L 566.5,20.5 L 579.5,20.5 L 592.5,20.5 L 605.5,20.5 L 618.5,20.5 L 631.5,20.5 L 644.5,20.5 L 657.5,20.5 L 670.5,20.5 L 683.5,20.5 L 696.5,20.5 L 709.5,20.5 L 722.5,20.5 L 722.5,33.5 L 709.5,33.5 L 696.5,33.5 L 683.5,33.5 L 670.5,33.5 L 657.5,33.5 L 644.5,33.5 L 631.5,33.5 L 618.5,33.5 L 605.5,33.5 L 592.5,33.5 L 579.5,33.5 L 566.5,33.5 L 553.5,33.5 L 540.5,33.5 L 527.5,33.5 L 514.5,33.5 L 501.5,33.5 L 488.5,33.5 L 475.5,33.5 L 462.5,33.5 L 449.5,33.5 L 436.5,33.5 L 423.5,33.5 L 410.5,33.5 L 397.5,33.5 L 384.5,33.5 L 371.5,33.5 L 358.5,33.5 L 345.5,33.5 L 332.5,33.5 L 319.5,33.5 L 306.5,33.5 L 293.5,33.5 L 280.5,33.5 L 267.5,33.5 L 254.5,33.5 L 241.5,33.5 L 228.5,33.5 L 215.5,33.5 L 202.5,33.5 L 189.5,33.5 L 176.5,33.5 L 163.5,33.5 L 150.5,33.5 L 137.5,33.5 L 124.5,33.5 L 111.5,33.5 L 98.5,33.5 L 85.5,33.5 L 72.5,33.5 L 59.5,33.5 L 59.5,46.5 L 72.5,46.5 L 85.5,46.5 L 98.5,46.5 L 111.5,46.5 L 124.5,46.5 L 137.5,46.5 L 150.5,46.5 L 163.5,46.5 L 176.5,46.5 L 189.5,46.5 L 202.5,46.5 L 215.5,46.5 L 228.5,46.5 L 241.5,46.5 L 254.5,46.5 L 267.5,46.5 L 280.5,46.5 L 293.5,46.5 L 306.5,46.5 L 319.5,46.5 L 332.5,46.5 L 345.5,46.5 L 358.5,46.5 L 371.5,46.5 L 384.5,46.5 L 397.5,46.5 L 410.5,46.5 L 423.5,46.5 L 436.5,46.5 L 449.5,46.5 L 462.5,46.5 L 475.5,46.5 L 488.5,46.5 L 501.5,46.5 L 514.5,46.5 L 527.5,46.5 L 540.5,46.5 L 553.5,46.5 L 566.5,46.5 L 579.5,46.5 L 592.5,46.5 L 605.5,46.5 L 618.5,46.5 L 631.5,46.5 L 644.5,46.5 L 657.5,46.5 L 670.5,46.5 L 683.5,46.5 L 696.5,46.5 L 709.5,46.5 L 722.5,46.5 L 722.5,59.5 L 709.5,59.5 L 696.5,59.5 L 683.5,59.5 L 670.5,59.5 L 657.5,59.5 L 644.5,59.5 L 631.5,59.5 L 618.5,59.5 L 605.5,59.5 L 592.5,59.5 L 579.5,59.5 L 566.5,59.5 L 553.5,59.5 L 540.5,59.5 L 527.5,59.5 L 514.5,59.5 L 501.5,59.5 L 488.5,59.5 L 475.5,59.5 L 462.5,59.5 L 449.5,59.5 L 436.5,59.5 L 423.5,59.5 L 410.5,59.5 L 397.5,59.5 L 384.5,59.5 L 371.5,59.5 L 358.5,59.5 L 345.5,59.5 L 332.5,59.5 L 319.5,59.5 L 306.5,59.5 L 293.5,59.5 L 280.5,59.5 L 267.5,59.5 L 254.5,59.5 L 241.5,59.5 L 228.5,59.5 L 215.5,59.5 L 202.5,59.5 L 189.5,59.5 L 176.5,59.5 L 163.5,59.5 L 150.5,59.5 L 137.5,59.5 L 124.5,59.5 L 111.5,59.5 L 98.5,59.5 L 85.5,59.5 L 72.5,59.5 L 59.5,59.5 L 59.5,72.5 L 72.5,72.5 L 85.5,72.5 L 98.5,72.5 L 111.5,72.5 L 124.5,72.5 L 137.5,72.5 L 150.5,72.5 L 163.5,72.5 L 176.5,72.5 L 189.5,72.5 L 202.5,72.5 L 215.5,72.5 L 228.5,72.5 L 241.5,72.5 L 254.5,72.5 L 267.5,72.5 L 280.5,72.5 L 293.5,72.5 L 306.5,72.5 L 319.5,72.5 L 332.5,72.5 L 345.5,72.5 L 358.5,72.5 L 371.5,72.5 L 384.5,72.5 L 397.5,72.5 L 410.5,72.5 L 423.5,72.5 L 436.5,72.5 L 449.5,72.5 L 462.5,72.5 L 475.5,72.5 L 488.5,72.5 L 501.5,72.5 L 514.5,72.5 L 527.5,72.5 L 540.5,72.5 L 553.5,72.5 L 566.5,72.5 L 579.5,72.5 L 592.5,72.5 L 605.5,72.5 L 618.5,72.5 L 631.5,72.5 L 644.5,72.5 L 657.5,72.5 L 670.5,72.5 L 683.5,72.5 L 696.5,72.5 L 709.5,72.5 L 722.5,72.5 L 722.5,85.5 L 709.5,85.5 L 696.5,85.5 L 683.5,85.5 L 670.5,85.5 L 657.5,85.5 L 644.5,85.5 L 631.5,85.5 L 618.5,85.5 L 605.5,85.5 L 592.5,85.5 L 579.5,85.5 L 566.5,85.5 L 553.5,85.5 L 540.5,85.5 L 527.5,85.5 L 514.5,85.5 L 501.5,85.5 L 488.5,85.5 L 475.5,85.5 L 462.5,85.5 L 449.5,85.5 L 436.5,85.5 L 423.5,85.5 L 410.5,85.5 L 397.5,85.5 L 384.5,85.5 L 371.5,85.5 L 358.5,85.5 L 345.5,85.5 L 332.5,85.5 L 319.5,85.5 L 306.5,85.5 L 293.5,85.5 L 280.5,85.5 L 267.5,85.5 L 254.5,85.5 L 241.5,85.5 L 228.5,85.5 L 215.5,85.5 L 202.5,85.5 L 189.5,85.5 L 176.5,85.5 L 163.5,85.5 L 150.5,85.5 L 137.5,85.5 L 124.5,85.5 L 111.5,85.5 L 98.5,85.5 L 85.5,85.5 L 72.5,85.5 L 59.5,85.5 L 59.5,98.5 L 72.5,98.5 L 85.5,98.5 L 98.5,98.5 L 111.5,98.5 L 124.5,98.5 L 137.5,98.5 L 150.5,98.5 L 163.5,98.5 L 176.5,98.5 L 189.5,98.5 L 202.5,98.5 L 215.5,98.5 L 228.5,98.5 L 241.5,98.5 L 254.5,98.5 L 267.5,98.5 L 280.5,98.5 L 293.5,98.5 L 306.5,98.5 L 319.5,98.5 L 332.5,98.5 L 345.5,98.5 L 358.5,98.5 L 371.5,98.5 L 384.5,98.5 L 397.5,98.5 L 410.5,98.5 L 423.5,98.5 L 436.5,98.5 L 449.5,98.5 L 462.5,98.5 L 475.5,98.5 L 488.5,98.5 L 501.5,98.5 L 514.5,98.5 L 527.5,98.5 L 540.5,98.5 L 553.5,98.5 L 566.5,98.5 L 579.5,98.5 L 592.5,98.5 L 605.5,98.5 L 618.5,98.5 L 631.5,98.5 L 644.5,98.5 L 657.5,98.5 L 670.5,98.5 L 683.5,98.5 L 696.5,98.5 L 709.5,98.5 L 722.5,98.5"/>
 </defs>
-
 <rect width="900" height="145" fill="#0d1117"/>
 <radialGradient id="vig" cx="50%" cy="50%" r="55%">
   <stop offset="0%"   stop-color="#1a3a10" stop-opacity="0.18"/>
-  <stop offset="100%" stop-color="#0d1117"     stop-opacity="0"/>
+  <stop offset="100%" stop-color="#0d1117"      stop-opacity="0"/>
 </radialGradient>
 <rect width="900" height="145" fill="url(#vig)"/>
-<!-- Real contribution grid (Victor-201, last 52 weeks) -->
 <rect x="54" y="15" width="11" height="11" rx="2" fill="#0e4429">
   <animate attributeName="fill" values="#0e4429;#7fff00;#39d353;#0e4429" keyTimes="0;0.01;0.12;1" dur="16s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0 0 1 1;0.2 0 0.8 1;0.2 0 0.8 1"/>
   <animate attributeName="filter" values="url(#cGlow);url(#cGlow);none" keyTimes="0;0.10;0.20" dur="16s" begin="0s" repeatCount="indefinite"/>
@@ -647,7 +640,6 @@
 </rect>
 <rect x="717" y="93" width="11" height="11" rx="2" fill="#0d1117" opacity="0.4"/>
 
-<!-- Snake body -->
 <circle r="4.5" fill="#0a2e0a" filter="url(#glow)">
   <animateMotion dur="16s" repeatCount="indefinite" begin="0.3087s" rotate="auto"><mpath href="#sp"/></animateMotion>
 </circle>
@@ -672,7 +664,7 @@
 
 <g filter="url(#glow)">
   <ellipse rx="8" ry="5.5" fill="#7fff00"/>
-  <ellipse cx="5" cy="1.5"  rx="1.2" ry="0.8" fill="#5cd80a" opacity="0.6"/>
+  <ellipse cx="5" cy="1.5" rx="1.2" ry="0.8" fill="#7fff00" opacity="0.7"/>
   <circle cx="4.5" cy="-2" r="2.2" fill="#e0ffe0"/>
   <ellipse cx="4.5" cy="-2" rx="0.7" ry="1.8" fill="#0d1117"/>
   <circle cx="5.1" cy="-2.7" r="0.5" fill="#ffffff" opacity="0.9"/>
@@ -680,15 +672,14 @@
     <animate attributeName="ry" values="0;2.2;0" keyTimes="0;0.5;1" dur="5s" begin="2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
   </ellipse>
   <g>
-    <line x1="8" y1="0" x2="13" y2="-2"  stroke="#ff2255" stroke-width="1"   stroke-linecap="round"/>
-    <line x1="8" y1="0" x2="13" y2="2"   stroke="#ff2255" stroke-width="1"   stroke-linecap="round"/>
-    <line x1="8" y1="0" x2="10" y2="0"   stroke="#ff2255" stroke-width="1.4" stroke-linecap="round"/>
+    <line x1="8" y1="0" x2="13" y2="-2" stroke="#ff2255" stroke-width="1"   stroke-linecap="round"/>
+    <line x1="8" y1="0" x2="13" y2="2"  stroke="#ff2255" stroke-width="1"   stroke-linecap="round"/>
+    <line x1="8" y1="0" x2="10" y2="0"  stroke="#ff2255" stroke-width="1.4" stroke-linecap="round"/>
     <animate attributeName="opacity" values="0;1;1;0;0;1;0" keyTimes="0;0.05;0.25;0.30;0.70;0.75;1" dur="0.9s" repeatCount="indefinite"/>
   </g>
   <animateMotion dur="16s" repeatCount="indefinite" begin="0s" rotate="auto">
     <mpath href="#sp"/>
   </animateMotion>
 </g>
-
 <text x="450" y="140" text-anchor="middle" font-size="8" fill="#39d353" font-family="monospace" opacity="0.35">// github contribution graph · Victor-201 · real data · 1y</text>
 </svg>
