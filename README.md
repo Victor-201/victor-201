@@ -27,19 +27,35 @@ OPEN_TO     =  Fullstack Engineering  +  Frontend/Backend Roles  +  Mobile Dev
 
 **[ Languages ]**
 
-<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="languages" />
+</picture>
 
 **[ Frontend &amp; Mobile ]**
 
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&theme=dark" alt="frontend" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,html,css&theme=dark" alt="frontend" />
+</picture>
 
 **[ Backend &amp; Databases ]**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,prisma,sequelize&theme=dark" alt="backend" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,prisma,sequelize&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,prisma,sequelize&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,postgres,mysql,prisma,sequelize&theme=dark" alt="backend" />
+</picture>
 
 **[ Cloud, DevOps &amp; Infrastructure ]**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,firebase,git,github,npm&theme=dark" alt="cloud" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,firebase,git,github,npm&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,firebase,git,github,npm&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,firebase,git,github,npm&theme=dark" alt="cloud" />
+</picture>
 
 </div>
 
@@ -207,12 +223,24 @@ $ git log --oneline /education
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-201&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=1a7f37&icon_color=1a7f37&text_color=24292f&bg_color=ffffff&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?user=Victor-201&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Victor-201&hide_border=true&background=ffffff&stroke=d0d7de&ring=1a7f37&fire=1a7f37&currStreakLabel=24292f&sideLabels=24292f&dates=8c959f&currStreakNum=24292f&sideNums=24292f" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-201&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=39FF14&currStreakLabel=CAFF3C&sideLabels=8AFF57&dates=8AFF57&currStreakNum=CAFF3C&sideNums=CAFF3C" alt="streak" />
+</picture>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="top-langs" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=1a7f37&text_color=24292f&bg_color=ffffff&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="top-langs" />
+</picture>
 
 </div>
 
@@ -232,7 +260,11 @@ $ git log --oneline /education
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-201&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Victor-201&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Victor-201&bg_color=ffffff&color=1a7f37&line=1a7f37&point=1a7f37&area=true&area_color=d4f4dd&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Victor-201&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=CAFF3C&area=true&area_color=1A2B0A&hide_border=true" alt="activity-graph" />
+</picture>
 
 </div>
 
@@ -242,17 +274,37 @@ $ git log --oneline /education
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-201&theme=github_dark" width="100%" alt="profile-details" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-201&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-201&theme=github" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-201&theme=github_dark" alt="profile-details" />
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-201&theme=github_dark" alt="repos-per-language" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-201&theme=github_dark" alt="most-commit-language" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-201&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-201&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-201&theme=github_dark" alt="repos-per-language" />
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-201&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-201&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-201&theme=github_dark" alt="most-commit-language" />
+</picture>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-201&theme=github_dark" alt="stats-card" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-201&theme=github_dark&utcOffset=7" alt="productive-time" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-201&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-201&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-201&theme=github_dark" alt="stats-card" />
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-201&theme=github_dark&utcOffset=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-201&theme=github&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-201&theme=github_dark&utcOffset=7" alt="productive-time" />
+</picture>
 
 </div>
 
@@ -316,7 +368,11 @@ open_to:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=d4f4dd&fontColor=1a7f37" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0a0f08&fontColor=CAFF3C" alt="footer" />
+</picture>
 
 </div>
 
