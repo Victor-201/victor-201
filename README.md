@@ -262,7 +262,11 @@ $ git log --oneline /education
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Victor-201/victor-201/images/snake.svg" alt="snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Victor-201/victor-201/images/snake.svg" alt="github-contribution-graph-snake-animation" />
+</picture>
 
 </div>
 
