@@ -260,7 +260,11 @@ $ git log --oneline /education
 
 ## `> ./snake-animation.sh`
 
+<div align="center">
+
 <img width="100%" src="https://raw.githubusercontent.com/Victor-201/victor-201/images/snake.svg" alt="github-contribution-graph-snake-animation" />
+
+</div>
 
 
 
