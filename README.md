@@ -1,4 +1,90 @@
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/Victor-201/victor-201/images/banner.svg" alt="banner" /><br/><a href="https://github.com/Victor-201"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=800&color=CAFF3C&center=true&vCenter=true&width=820&height=32&lines=%24+whoami+%E2%86%92+Fullstack+Developer+%2F+React+%26+Node.js+Engineer;%24+grep+-r+%22stack%22+%E2%86%92+React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;%24+ls+%2Finterests+%E2%86%92+Web+Apps+%7C+Mobile+Apps+%7C+Telemetry+%7C+UI%2FUX;%24+cat+featured-project.txt+%E2%86%92+EV+Charging+Orchestration+Platform" alt="typing-terminal" /></a><br/><br/><img src="https://img.shields.io/badge/%F0%9F%93%8D_Ho%20Chi%20Minh%20City%2C%20VN-1A2B1A?style=flat-square&labelColor=060D08&logoColor=CAFF3C" alt="location" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Role-Fullstack%20Developer-CAFF3C?style=flat-square&labelColor=060D08&color=1A2B1A&logo=code&logoColor=CAFF3C" alt="role" /><br/><br/><a href="https://victor-201.github.io"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>&nbsp;&nbsp;<a href="mailto:4.victor.201@gmail.com"><img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="email" /></a>&nbsp;&nbsp;<a href="https://github.com/Victor-201"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>&nbsp;&nbsp;<a href="https://dev.to/victor-201"><img src="https://img.shields.io/badge/Dev.to-CAFF3C?style=for-the-badge&logo=devdotto&logoColor=000000&labelColor=060D08" alt="dev.to" /></a><br/><br/><img src="https://komarev.com/ghpvc/?username=Victor-201&style=flat-square&color=CAFF3C&labelColor=060D08&label=Profile+Views" alt="views" />&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/Victor-201?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Followers" alt="followers" />&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/Victor-201?style=flat-square&color=CAFF3C&labelColor=060D08&logo=github&label=Stars" alt="stars" /></div>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/banner-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Victor-201/victor-201/images/banner-dark.svg" alt="banner" />
+</picture>
+
+<br/>
+
+<a href="https://github.com/Victor-201">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=800&amp;color=CAFF3C&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=32&amp;lines=%24+whoami+%E2%86%92+Fullstack+Developer+%2F+React+%26+Node.js+Engineer;%24+grep+-r+%22stack%22+%E2%86%92+React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;%24+ls+%2Finterests+%E2%86%92+Web+Apps+%7C+Mobile+Apps+%7C+Telemetry+%7C+UI%2FUX;%24+cat+featured-project.txt+%E2%86%92+EV+Charging+Orchestration+Platform" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=800&amp;color=1a7f37&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=32&amp;lines=%24+whoami+%E2%86%92+Fullstack+Developer+%2F+React+%26+Node.js+Engineer;%24+grep+-r+%22stack%22+%E2%86%92+React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;%24+ls+%2Finterests+%E2%86%92+Web+Apps+%7C+Mobile+Apps+%7C+Telemetry+%7C+UI%2FUX;%24+cat+featured-project.txt+%E2%86%92+EV+Charging+Orchestration+Platform" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;pause=800&amp;color=CAFF3C&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=32&amp;lines=%24+whoami+%E2%86%92+Fullstack+Developer+%2F+React+%26+Node.js+Engineer;%24+grep+-r+%22stack%22+%E2%86%92+React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;%24+ls+%2Finterests+%E2%86%92+Web+Apps+%7C+Mobile+Apps+%7C+Telemetry+%7C+UI%2FUX;%24+cat+featured-project.txt+%E2%86%92+EV+Charging+Orchestration+Platform" alt="typing-terminal" />
+  </picture>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/%F0%9F%93%8D_Ho%20Chi%20Minh%20City%2C%20VN-1A2B1A?style=flat-square&amp;labelColor=060D08&amp;logoColor=CAFF3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%93%8D_Ho%20Chi%20Minh%20City%2C%20VN-e2ebd5?style=flat-square&amp;labelColor=f6f8fa&amp;color=1f883d&amp;logoColor=1f883d" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Ho%20Chi%20Minh%20City%2C%20VN-1A2B1A?style=flat-square&amp;labelColor=060D08&amp;logoColor=CAFF3C" alt="location" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Role-Fullstack%20Developer-CAFF3C?style=flat-square&amp;labelColor=060D08&amp;color=1A2B1A&amp;logo=code&amp;logoColor=CAFF3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Role-Fullstack%20Developer-1f883d?style=flat-square&amp;labelColor=f6f8fa&amp;color=e2ebd5&amp;logo=code&amp;logoColor=1f883d" />
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-CAFF3C?style=flat-square&amp;labelColor=060D08&amp;color=1A2B1A&amp;logo=code&amp;logoColor=CAFF3C" alt="role" />
+</picture>
+
+<br/><br/>
+
+<a href="https://victor-201.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=000000&amp;labelColor=060D08" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-1f883d?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=ffffff&amp;labelColor=f6f8fa&amp;color=1f883d" />
+    <img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=000000&amp;labelColor=060D08" alt="portfolio" />
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:4.victor.201@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&amp;logo=gmail&amp;logoColor=000000&amp;labelColor=060D08" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-1f883d?style=for-the-badge&amp;logo=gmail&amp;logoColor=ffffff&amp;labelColor=f6f8fa&amp;color=1f883d" />
+    <img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&amp;logo=gmail&amp;logoColor=000000&amp;labelColor=060D08" alt="email" />
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Victor-201">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&amp;logo=github&amp;logoColor=000000&amp;labelColor=060D08" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-1f883d?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=f6f8fa&amp;color=1f883d" />
+    <img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&amp;logo=github&amp;logoColor=000000&amp;labelColor=060D08" alt="github" />
+  </picture>
+</a>
+&nbsp;&nbsp;
+<a href="https://dev.to/victor-201">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Dev.to-CAFF3C?style=for-the-badge&amp;logo=devdotto&amp;logoColor=000000&amp;labelColor=060D08" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Dev.to-1f883d?style=for-the-badge&amp;logo=devdotto&amp;logoColor=ffffff&amp;labelColor=f6f8fa&amp;color=1f883d" />
+    <img src="https://img.shields.io/badge/Dev.to-CAFF3C?style=for-the-badge&amp;logo=devdotto&amp;logoColor=000000&amp;labelColor=060D08" alt="dev.to" />
+  </picture>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://komarev.com/ghpvc/?username=Victor-201&amp;style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;label=Profile+Views" />
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Victor-201&amp;style=flat-square&amp;color=1f883d&amp;labelColor=f6f8fa&amp;label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Victor-201&amp;style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;label=Profile+Views" alt="views" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/github/followers/Victor-201?style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;logo=github&amp;label=Followers" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Victor-201?style=flat-square&amp;color=1f883d&amp;labelColor=f6f8fa&amp;logo=github&amp;label=Followers" />
+  <img src="https://img.shields.io/github/followers/Victor-201?style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;logo=github&amp;label=Followers" alt="followers" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/github/stars/Victor-201?style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;logo=github&amp;label=Stars" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/Victor-201?style=flat-square&amp;color=1f883d&amp;labelColor=f6f8fa&amp;logo=github&amp;label=Stars" />
+  <img src="https://img.shields.io/github/stars/Victor-201?style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;logo=github&amp;label=Stars" alt="stars" />
+</picture>
+
+</div>
 
 ---
 
@@ -65,10 +151,26 @@ OPEN_TO     =  Fullstack Engineering  +  Frontend/Backend Roles  +  Mobile Dev
 
 **[ Specialized Tools &amp; Libraries ]**
 
-<img src="https://img.shields.io/badge/PL%2FpgSQL-CAFF3C?style=flat-square&logo=postgresql&logoColor=000000&labelColor=060D08" alt="plpgsql" />
-<img src="https://img.shields.io/badge/React%20Native-CAFF3C?style=flat-square&logo=react&logoColor=000000&labelColor=060D08" alt="reactnative" />
-<img src="https://img.shields.io/badge/Kong%20Gateway-CAFF3C?style=flat-square&logo=kong&logoColor=000000&labelColor=060D08" alt="kong" />
-<img src="https://img.shields.io/badge/ESLint-CAFF3C?style=flat-square&logo=eslint&logoColor=000000&labelColor=060D08" alt="eslint" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/PL%2FpgSQL-CAFF3C?style=flat-square&amp;logo=postgresql&amp;logoColor=000000&amp;labelColor=060D08" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PL%2FpgSQL-1f883d?style=flat-square&amp;logo=postgresql&amp;logoColor=ffffff&amp;labelColor=f6f8fa&amp;color=1f883d" />
+  <img src="https://img.shields.io/badge/PL%2FpgSQL-CAFF3C?style=flat-square&amp;logo=postgresql&amp;logoColor=000000&amp;labelColor=060D08" alt="plpgsql" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/React%20Native-CAFF3C?style=flat-square&amp;logo=react&amp;logoColor=000000&amp;labelColor=060D08" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Native-1f883d?style=flat-square&amp;logo=react&amp;logoColor=ffffff&amp;labelColor=f6f8fa&amp;color=1f883d" />
+  <img src="https://img.shields.io/badge/React%20Native-CAFF3C?style=flat-square&amp;logo=react&amp;logoColor=000000&amp;labelColor=060D08" alt="reactnative" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Kong%20Gateway-CAFF3C?style=flat-square&amp;logo=kong&amp;logoColor=000000&amp;labelColor=060D08" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kong%20Gateway-1f883d?style=flat-square&amp;logo=kong&amp;logoColor=ffffff&amp;labelColor=f6f8fa&amp;color=1f883d" />
+  <img src="https://img.shields.io/badge/Kong%20Gateway-CAFF3C?style=flat-square&amp;logo=kong&amp;logoColor=000000&amp;labelColor=060D08" alt="kong" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/ESLint-CAFF3C?style=flat-square&amp;logo=eslint&amp;logoColor=000000&amp;labelColor=060D08" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ESLint-1f883d?style=flat-square&amp;logo=eslint&amp;logoColor=ffffff&amp;labelColor=f6f8fa&amp;color=1f883d" />
+  <img src="https://img.shields.io/badge/ESLint-CAFF3C?style=flat-square&amp;logo=eslint&amp;logoColor=000000&amp;labelColor=060D08" alt="eslint" />
+</picture>
 
 </div>
 
@@ -250,7 +352,11 @@ $ git log --oneline /education
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies.svg" alt="trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-light.svg" />
+  <img src="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-dark.svg" alt="trophies" />
+</picture>
 
 </div>
 
