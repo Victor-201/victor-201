@@ -343,19 +343,10 @@ $ git log --oneline /education
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=1a7f37&text_color=24292f&bg_color=ffffff&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="top-langs" />
 </picture>
-
-</div>
-
----
-
-## `> trophy-case --display`
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-light.svg" />
-  <img src="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-dark.svg" alt="trophies" />
+  <img height="165" src="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-dark.svg" alt="trophies" />
 </picture>
 
 </div>
