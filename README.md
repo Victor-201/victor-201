@@ -327,14 +327,14 @@ $ git log --oneline /education
 
 <table>
   <tr>
-    <td>
+    <td width="50%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=1a7f37&icon_color=1a7f37&text_color=24292f&bg_color=ffffff&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
         <img height="165" src="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="stats" />
       </picture>
     </td>
-    <td>
+    <td width="50%" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=1a7f37&text_color=24292f&bg_color=ffffff&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
