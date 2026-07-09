@@ -325,28 +325,31 @@ $ git log --oneline /education
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=1a7f37&icon_color=1a7f37&text_color=24292f&bg_color=ffffff&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=Victor-201&amp;v=3&amp;hide_border=true&amp;background=0A0F08&amp;stroke=CAFF3C&amp;ring=8AFF57&amp;fire=39FF14&amp;currStreakLabel=CAFF3C&amp;sideLabels=8AFF57&amp;dates=8AFF57&amp;currStreakNum=CAFF3C&amp;sideNums=CAFF3C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Victor-201&amp;v=3&amp;hide_border=true&amp;background=ffffff&amp;stroke=d0d7de&amp;ring=1a7f37&amp;fire=1a7f37&amp;currStreakLabel=24292f&amp;sideLabels=24292f&amp;dates=8c959f&amp;currStreakNum=24292f&amp;sideNums=24292f" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Victor-201&amp;v=3&amp;hide_border=true&amp;background=0A0F08&amp;stroke=CAFF3C&amp;ring=8AFF57&amp;fire=39FF14&amp;currStreakLabel=CAFF3C&amp;sideLabels=8AFF57&amp;dates=8AFF57&amp;currStreakNum=CAFF3C&amp;sideNums=CAFF3C" alt="streak" />
-</picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=1a7f37&icon_color=1a7f37&text_color=24292f&bg_color=ffffff&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+        <img height="165" src="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="stats" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=1a7f37&text_color=24292f&bg_color=ffffff&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
+        <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="top-langs" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=1a7f37&text_color=24292f&bg_color=ffffff&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Victor-201&layout=compact&hide_border=true&langs_count=8&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08&hide=python,plpgsql&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="top-langs" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-light.svg" />
-  <img height="165" src="https://raw.githubusercontent.com/Victor-201/victor-201/images/trophies-dark.svg" alt="trophies" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=Victor-201&amp;v=3&amp;hide_border=true&amp;background=0A0F08&amp;stroke=CAFF3C&amp;ring=8AFF57&amp;fire=39FF14&amp;currStreakLabel=CAFF3C&amp;sideLabels=8AFF57&amp;dates=8AFF57&amp;currStreakNum=CAFF3C&amp;sideNums=CAFF3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Victor-201&amp;v=3&amp;hide_border=true&amp;background=ffffff&amp;stroke=d0d7de&amp;ring=1a7f37&amp;fire=1a7f37&amp;currStreakLabel=24292f&amp;sideLabels=24292f&amp;dates=8c959f&amp;currStreakNum=24292f&amp;sideNums=24292f" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Victor-201&amp;v=3&amp;hide_border=true&amp;background=0A0F08&amp;stroke=CAFF3C&amp;ring=8AFF57&amp;fire=39FF14&amp;currStreakLabel=CAFF3C&amp;sideLabels=8AFF57&amp;dates=8AFF57&amp;currStreakNum=CAFF3C&amp;sideNums=CAFF3C" alt="streak" />
 </picture>
 
 </div>
