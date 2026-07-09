@@ -20,13 +20,13 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/%F0%9F%93%8D_Ho%20Chi%20Minh%20City%2C%20VN-1A2B1A?style=flat-square&amp;labelColor=060D08&amp;logoColor=CAFF3C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%93%8D_Ho%20Chi%20Minh%20City%2C%20VN-e2ebd5?style=flat-square&amp;labelColor=24292f&amp;color=1f883d&amp;logoColor=1f883d" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%93%8D_Ho%20Chi%20Minh%20City%2C%20VN-d4edda?style=flat-square&amp;labelColor=d4edda&amp;color=1f883d&amp;logoColor=1f883d" />
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_Ho%20Chi%20Minh%20City%2C%20VN-1A2B1A?style=flat-square&amp;labelColor=060D08&amp;logoColor=CAFF3C" alt="location" />
 </picture>
 &nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Role-Fullstack%20Developer-CAFF3C?style=flat-square&amp;labelColor=060D08&amp;color=1A2B1A&amp;logo=code&amp;logoColor=CAFF3C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Role-Fullstack%20Developer-1f883d?style=flat-square&amp;labelColor=24292f&amp;color=e2ebd5&amp;logo=code&amp;logoColor=1f883d" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Role-Fullstack%20Developer-1f883d?style=flat-square&amp;labelColor=d4edda&amp;color=d4edda&amp;logo=code&amp;logoColor=1f883d" />
   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-CAFF3C?style=flat-square&amp;labelColor=060D08&amp;color=1A2B1A&amp;logo=code&amp;logoColor=CAFF3C" alt="role" />
 </picture>
 
@@ -35,7 +35,7 @@
 <a href="https://victor-201.github.io">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=000000&amp;labelColor=060D08" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-1f883d?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=ffffff&amp;labelColor=24292f&amp;color=1f883d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=1f883d&amp;labelColor=d4edda&amp;color=d4edda" />
     <img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=000000&amp;labelColor=060D08" alt="portfolio" />
   </picture>
 </a>
@@ -43,7 +43,7 @@
 <a href="mailto:4.victor.201@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&amp;logo=gmail&amp;logoColor=000000&amp;labelColor=060D08" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-1f883d?style=for-the-badge&amp;logo=gmail&amp;logoColor=ffffff&amp;labelColor=24292f&amp;color=1f883d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-white?style=for-the-badge&amp;logo=gmail&amp;logoColor=1f883d&amp;labelColor=d4edda&amp;color=d4edda" />
     <img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&amp;logo=gmail&amp;logoColor=000000&amp;labelColor=060D08" alt="email" />
   </picture>
 </a>
@@ -51,7 +51,7 @@
 <a href="https://github.com/Victor-201">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&amp;logo=github&amp;logoColor=000000&amp;labelColor=060D08" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-1f883d?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=24292f&amp;color=1f883d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-white?style=for-the-badge&amp;logo=github&amp;logoColor=1f883d&amp;labelColor=d4edda&amp;color=d4edda" />
     <img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&amp;logo=github&amp;logoColor=000000&amp;labelColor=060D08" alt="github" />
   </picture>
 </a>
@@ -59,7 +59,7 @@
 <a href="https://dev.to/victor-201">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Dev.to-CAFF3C?style=for-the-badge&amp;logo=devdotto&amp;logoColor=000000&amp;labelColor=060D08" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Dev.to-1f883d?style=for-the-badge&amp;logo=devdotto&amp;logoColor=ffffff&amp;labelColor=24292f&amp;color=1f883d" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Dev.to-white?style=for-the-badge&amp;logo=devdotto&amp;logoColor=1f883d&amp;labelColor=d4edda&amp;color=d4edda" />
     <img src="https://img.shields.io/badge/Dev.to-CAFF3C?style=for-the-badge&amp;logo=devdotto&amp;logoColor=000000&amp;labelColor=060D08" alt="dev.to" />
   </picture>
 </a>
@@ -68,19 +68,19 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://komarev.com/ghpvc/?username=Victor-201&amp;style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;label=Profile+Views" />
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Victor-201&amp;style=flat-square&amp;color=1f883d&amp;labelColor=24292f&amp;label=Profile+Views" />
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Victor-201&amp;style=flat-square&amp;color=1f883d&amp;labelColor=d4edda&amp;label=Profile+Views" />
   <img src="https://komarev.com/ghpvc/?username=Victor-201&amp;style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;label=Profile+Views" alt="views" />
 </picture>
 &nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/github/followers/Victor-201?style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;logo=github&amp;label=Followers" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Victor-201?style=flat-square&amp;color=1f883d&amp;labelColor=24292f&amp;logo=github&amp;label=Followers" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Victor-201?style=flat-square&amp;color=1f883d&amp;labelColor=d4edda&amp;logo=github&amp;label=Followers" />
   <img src="https://img.shields.io/github/followers/Victor-201?style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;logo=github&amp;label=Followers" alt="followers" />
 </picture>
 &nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/github/stars/Victor-201?style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;logo=github&amp;label=Stars" />
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/Victor-201?style=flat-square&amp;color=1f883d&amp;labelColor=24292f&amp;logo=github&amp;label=Stars" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/Victor-201?style=flat-square&amp;color=1f883d&amp;labelColor=d4edda&amp;logo=github&amp;label=Stars" />
   <img src="https://img.shields.io/github/stars/Victor-201?style=flat-square&amp;color=CAFF3C&amp;labelColor=060D08&amp;logo=github&amp;label=Stars" alt="stars" />
 </picture>
 
@@ -331,9 +331,9 @@ $ git log --oneline /education
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Victor-201&show_icons=true&count_private=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&exclude_repo=its-group5-drowsiness-alert,se-drowsiness-alert" alt="stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=Victor-201&amp;v=1&amp;hide_border=true&amp;background=0A0F08&amp;stroke=CAFF3C&amp;ring=8AFF57&amp;fire=39FF14&amp;currStreakLabel=CAFF3C&amp;sideLabels=8AFF57&amp;dates=8AFF57&amp;currStreakNum=CAFF3C&amp;sideNums=CAFF3C" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Victor-201&amp;v=1&amp;hide_border=true&amp;background=ffffff&amp;stroke=d0d7de&amp;ring=1a7f37&amp;fire=1a7f37&amp;currStreakLabel=24292f&amp;sideLabels=24292f&amp;dates=8c959f&amp;currStreakNum=24292f&amp;sideNums=24292f" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Victor-201&amp;v=1&amp;hide_border=true&amp;background=0A0F08&amp;stroke=CAFF3C&amp;ring=8AFF57&amp;fire=39FF14&amp;currStreakLabel=CAFF3C&amp;sideLabels=8AFF57&amp;dates=8AFF57&amp;currStreakNum=CAFF3C&amp;sideNums=CAFF3C" alt="streak" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com/?user=Victor-201&amp;v=3&amp;hide_border=true&amp;background=0A0F08&amp;stroke=CAFF3C&amp;ring=8AFF57&amp;fire=39FF14&amp;currStreakLabel=CAFF3C&amp;sideLabels=8AFF57&amp;dates=8AFF57&amp;currStreakNum=CAFF3C&amp;sideNums=CAFF3C" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Victor-201&amp;v=3&amp;hide_border=true&amp;background=ffffff&amp;stroke=d0d7de&amp;ring=1a7f37&amp;fire=1a7f37&amp;currStreakLabel=24292f&amp;sideLabels=24292f&amp;dates=8c959f&amp;currStreakNum=24292f&amp;sideNums=24292f" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Victor-201&amp;v=3&amp;hide_border=true&amp;background=0A0F08&amp;stroke=CAFF3C&amp;ring=8AFF57&amp;fire=39FF14&amp;currStreakLabel=CAFF3C&amp;sideLabels=8AFF57&amp;dates=8AFF57&amp;currStreakNum=CAFF3C&amp;sideNums=CAFF3C" alt="streak" />
 </picture>
 
 <br/>
