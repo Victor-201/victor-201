@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-<a href="https://victor-201.github.io">
+<a href="https://victorfolio.pages.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=000000&amp;labelColor=060D08" />
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=1f883d&amp;labelColor=d4edda&amp;color=d4edda" />
@@ -218,7 +218,7 @@ Real-time scheduling & orchestration engine for EV charging infrastructure. Incl
 | **Performance** | Priority queueing &amp; session lifecycle management |
 | **Security** | Scoped access controls, secure payment integration |
 | **Impact** | End-to-end prototype for EV charging scheduling &amp; simulation |
-| **Repo** | [`github.com/Victor-201/ev-charging-orchestration-platform`](https://github.com/Victor-201/ev-charging-orchestration-platform) |
+| **Repo** | [`github.com/Victor-201/ev-charging-orchestration-platform`](https://github.com/Victor-201/ev-charging-orchestration-platform) &middot; [**Admin Demo**](https://victor-ev-admin.pages.dev) &middot; [**Kiosk Demo**](https://victor-ev-kiosk.pages.dev) |
 
 </details>
 
@@ -236,7 +236,22 @@ Social learning platform for sharing study materials, creating study groups, rea
 | **Performance** | Optimized database queries for community ratings &amp; material sharing |
 | **Security** | Secure user authentication and resource access controls |
 | **Impact** | Interactive community learning and material sharing platform |
-| **Repo** | [`github.com/Victor-201/studyhub-platform`](https://github.com/Victor-201/studyhub-platform) |
+| **Repo** | [`github.com/Victor-201/studyhub-platform`](https://github.com/Victor-201/studyhub-platform) &middot; [**Live Demo**](https://victor-studyhub.pages.dev) |
+
+</details>
+
+<details>
+<summary><b>FA Credit &mdash; Customer Debt Management System</b></summary>
+
+<br/>
+
+Customer debt management system designed for tracking, managing, and reporting client financial transactions, balances, and payment histories.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | React &middot; Vite &middot; Tailwind CSS &middot; Cloudflare Pages |
+| **Features** | Ledger entry, client balance summaries, and status filtering |
+| **Repo** | [`github.com/Victor-201/victor-debt`](https://github.com/Victor-201/victor-debt) &middot; [**Live Demo**](https://victor-debt.pages.dev) |
 
 </details>
 
@@ -254,7 +269,7 @@ Interactive visualization of the N-Queens problem solved using the Steepest-Asce
 | **Performance** | Smooth step-by-step state visualization of local search heuristics |
 | **UX** | Real-time speed controls, board size configuration, and state analysis |
 | **Impact** | Educational tool for visualizing search heuristic optimization |
-| **Repo** | [`github.com/Victor-201/queens-hill-climbing`](https://github.com/Victor-201/queens-hill-climbing) &middot; [**Live Demo**](https://victor-201.github.io/queens-hill-climbing/) |
+| **Repo** | [`github.com/Victor-201/queens-hill-climbing`](https://github.com/Victor-201/queens-hill-climbing) &middot; [**Live Demo**](https://victor-queens.pages.dev) |
 
 </details>
 
@@ -273,6 +288,21 @@ All-in-one Chrome extension for web developers — color picker, font detector, 
 | **UX** | Direct overlay on target webpages with intuitive control panel |
 | **Impact** | Productivity boost for frontend developers and designers |
 | **Repo** | [`github.com/Victor-201/webdev-toolkit`](https://github.com/Victor-201/webdev-toolkit) |
+
+</details>
+
+<details>
+<summary><b>Victorfolio &mdash; Personal Portfolio Website</b></summary>
+
+<br/>
+
+Personal portfolio website showcasing engineering projects, technical skills, and experience. Built with clean, premium aesthetics, responsive layout, and smooth animations.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | React &middot; Tailwind CSS &middot; Vite &middot; Cloudflare Pages |
+| **Design** | Dark mode UI, CSS transitions, responsive grid, dynamic content rendering |
+| **Repo** | [`github.com/Victor-201/victorfolio`](https://github.com/Victor-201/victorfolio) &middot; [**Live Demo**](https://victorfolio.pages.dev) |
 
 </details>
 
@@ -454,7 +484,7 @@ open_to:
 <div align="center">
 
 <a href="mailto:4.victor.201@gmail.com"><img src="https://img.shields.io/badge/Gmail-CAFF3C?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=060D08" alt="gmail" /></a>
-<a href="https://victor-201.github.io"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
+<a href="https://victorfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-CAFF3C?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=060D08" alt="portfolio" /></a>
 <a href="https://github.com/Victor-201"><img src="https://img.shields.io/badge/GitHub-CAFF3C?style=for-the-badge&logo=github&logoColor=000000&labelColor=060D08" alt="github" /></a>
 <a href="https://dev.to/victor-201"><img src="https://img.shields.io/badge/Dev.to-CAFF3C?style=for-the-badge&logo=devdotto&logoColor=000000&labelColor=060D08" alt="dev.to" /></a>
 
